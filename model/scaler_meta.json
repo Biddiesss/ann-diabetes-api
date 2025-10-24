@@ -27,6 +27,7 @@
     "Insulin",
     "BMI",
     "DiabetesPedigree",
-    "Age"
+    "Age",
+    "Outcome"
   ]
 }
